@@ -11,5 +11,23 @@ title-style{
     text-align: center;
 }
 .rubahhuruf{
-    color: blue;
+    color: rgb(255, 0, 0);
+    margin-left: 25px;
 }
+h1,h2
+{
+    font: 2em "Open Sans", sans-serif;
+    color: rgb(250, 3, 3);
+}
+p,p
+{
+    margin-left: 10px;
+    color: rgb(8, 8, 8)
+
+}
+a
+{
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
