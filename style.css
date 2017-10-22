@@ -1,0 +1,15 @@
+body{
+    background-color: #00ff37;
+    font-family: sans-serif;
+    margin:0;
+}
+img{
+    padding:10px;
+    background-position: center;
+}
+title-style{
+    text-align: center;
+}
+.rubahhuruf{
+    color: blue;
+}
